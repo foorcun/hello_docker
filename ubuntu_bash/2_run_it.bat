@@ -1,0 +1,1 @@
+cmd /k docker run -it i_hello-ubuntu bash

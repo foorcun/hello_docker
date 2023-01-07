@@ -1,0 +1,1 @@
+cmd /k docker build -t hello-java .

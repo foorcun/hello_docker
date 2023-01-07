@@ -1,0 +1,1 @@
+cmd /k docker build -t i_hello-javascript .

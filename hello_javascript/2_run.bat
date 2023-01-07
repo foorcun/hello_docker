@@ -1,0 +1,1 @@
+cmd /k docker run i_hello-javascript
